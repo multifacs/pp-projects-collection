@@ -1,4 +1,4 @@
-message(STATUS "tbb")
+message(STATUS "mpi")
 
 SUBDIRLIST(subdirs ${CMAKE_CURRENT_SOURCE_DIR})
 

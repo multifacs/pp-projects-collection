@@ -1,4 +1,4 @@
-message(STATUS "Task 2")
+message(STATUS "omp")
 
 SUBDIRLIST(subdirs ${CMAKE_CURRENT_SOURCE_DIR})
 
