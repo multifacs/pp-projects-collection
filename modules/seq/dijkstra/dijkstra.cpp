@@ -1,5 +1,4 @@
-// Copyright 2022 Tyrina Anastasia
-#include "../../../modules/task_1/tyrina_a_dijkstra/dijkstra.h"
+#include "../../../modules/seq/dijkstra/dijkstra.h"
 
 #include <climits>
 #include <random>

@@ -1,5 +1,4 @@
-// Copyright 2022 Schyotkin Artyom
-#include "../../../modules/task_1/schyotkin_a_fox_mult/fox_mult.h"
+#include "../../../modules/seq/fox_mult/fox_mult.h"
 
 #include <iostream>
 

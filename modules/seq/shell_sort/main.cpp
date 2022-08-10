@@ -1,4 +1,3 @@
-// Copyright 2022 Fedoseyev Mikhail
 #include <gtest/gtest.h>
 
 #include "./shell_sort.h"

@@ -1,6 +1,4 @@
-// Copyright 2022 Vorobyova Anya
-
-#include "../../../modules/task_1/vorobyova_a_gauss_horizontal/gauss_horizontal.h"
+#include "../../../modules/seq/gauss_horizontal/gauss_horizontal.h"
 
 #include <random>
 
