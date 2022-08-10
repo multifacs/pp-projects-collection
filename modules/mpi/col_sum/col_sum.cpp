@@ -1,5 +1,5 @@
 // Copyright 2021 Shelepin Nikita
-#include "../../../modules/task_1/shelepin_n_col_sum/col_sum.h"
+#include "../../../modules/mpi/col_sum/col_sum.h"
 #include <mpi.h>
 #include <cstdlib>
 #include <iostream>

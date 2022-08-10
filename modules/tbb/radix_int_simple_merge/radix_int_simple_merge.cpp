@@ -1,6 +1,4 @@
-// Copyright 2022 Sorokina Ekaterina
-
-#include "../../../modules/task_3/sorokina_e_radix_int_simple_merge/radix_int_simple_merge.h"
+#include "../../../modules/tbb/radix_int_simple_merge/radix_int_simple_merge.h"
 
 #include <tbb/tbb.h>
 

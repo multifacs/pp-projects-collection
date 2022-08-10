@@ -1,5 +1,5 @@
 // Copyright 2021 Shelepin Nikita
-#include "../../../modules/task_2/shelepin_n_dining_philosophers/dining_philosophers.h"
+#include "../../../modules/mpi/dining_philosophers/dining_philosophers.h"
 #include <mpi.h>
 #include <random>
 #include <ctime>

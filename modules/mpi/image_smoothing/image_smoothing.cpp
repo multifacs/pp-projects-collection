@@ -1,6 +1,4 @@
-// Copyright 2021 Boyarskov Anton
-
-#include "../../../modules/task_2/boyarskov_a_image_smoothing/image_smoothing.h"
+#include "../../../modules/mpi/image_smoothing/image_smoothing.h"
 
 #include <mpi.h>
 

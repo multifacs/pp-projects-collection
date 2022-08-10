@@ -1,10 +1,8 @@
-// Copyright 2021 Lazarev Alexey
-
 #include <gtest/gtest.h>
 
 #include <gtest-mpi-listener.hpp>
 
-#include "../../../modules/task_1/lazarev_numbers_of_words_in_line/word_count.h"
+#include "../../../modules/mpi/numbers_of_words_in_line/word_count.h"
 
 TEST(WordCount, without_space) {
   std::string st = "sdhsd sdh dsd dh sd";

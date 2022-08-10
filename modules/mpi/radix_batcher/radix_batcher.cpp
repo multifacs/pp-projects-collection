@@ -1,5 +1,4 @@
-// Copyright 2021 Barysheva Maria
-#include "../../../modules/task_3/barysheva_m_radix_batcher/radix_batcher.h"
+#include "../../../modules/mpi/radix_batcher/radix_batcher.h"
 
 #include <mpi.h>
 

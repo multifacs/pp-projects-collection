@@ -1,7 +1,6 @@
-// Copyright 2021 Vorobyova Anna
 #include <mpi.h>
 #include <random>
-#include "../../../modules/task_1/vorobyova_a_matrix_sum/matrix_sum.h"
+#include "../../../modules/mpi/matrix_sum/matrix_sum.h"
 
 
 int* getRandomMatrix(int size) {

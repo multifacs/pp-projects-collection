@@ -1,5 +1,4 @@
-// Copyright 2021 Shabunin Vladislav
-#include "../../../modules/task_2/shabunin_v_sleeping_barber/sleeping_barber.h"
+#include "../../../modules/mpi/sleeping_barber_2/sleeping_barber.h"
 
 #include <mpi.h>
 

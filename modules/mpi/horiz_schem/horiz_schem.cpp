@@ -1,5 +1,4 @@
-// Copyright 2021 Lazarev Alexey
-#include "../../../modules/task_2/lazarev_a_horiz_schem/horiz_schem.h"
+#include "../../../modules/mpi/horiz_schem/horiz_schem.h"
 
 std::vector<int> random_vector(int size) {
   std::random_device dev;

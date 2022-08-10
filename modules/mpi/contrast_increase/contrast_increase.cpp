@@ -1,5 +1,5 @@
 // Copyright 2021 Tyrina Anastasia
-#include "../../../modules/task_2/tyrina_a_contrast_increase/contrast_increase.h"
+#include "../../../modules/mpi/contrast_increase/contrast_increase.h"
 
 #include <mpi.h>
 

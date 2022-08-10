@@ -1,6 +1,4 @@
-// Copyright 2022 Fedoseyev Mikhail
-
-#include "../../../modules/task_3/fedoseyev_m_shell_sort/shell_sort.h"
+#include "../../../modules/tbb/shell_sort/shell_sort.h"
 
 #include <tbb/tbb.h>
 

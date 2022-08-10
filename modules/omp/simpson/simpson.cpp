@@ -1,5 +1,4 @@
-// Copyright 2022 Votyakova Daria
-#include "../../../modules/task_2/votyakova_d_simpson/simpson.h"
+#include "../../../modules/omp/simpson/simpson.h"
 
 #include <omp.h>
 

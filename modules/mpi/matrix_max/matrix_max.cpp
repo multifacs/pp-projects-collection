@@ -1,7 +1,6 @@
-// Copyright 2021 Boyarskov Anton
 #include <mpi.h>
 #include <random>
-#include "../../../modules/task_1/boyarskov_a_matrix_max/matrix_max.h"
+#include "../../../modules/mpi/matrix_max/matrix_max.h"
 
 
 int* getRandomMatrix(int n, int m) {

@@ -1,5 +1,4 @@
-// Copyright 2021 Barysheva Maria
-#include "../../../modules/task_1/barysheva_m_matrix_max_row_elem/matrix_max_row_elem.h"
+#include "../../../modules/mpi/matrix_max_row_elem/matrix_max_row_elem.h"
 
 #include <mpi.h>
 

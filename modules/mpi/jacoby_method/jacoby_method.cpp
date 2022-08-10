@@ -1,6 +1,4 @@
-// Copyright 2021 Votyakova Daria
-
-#include "../../../modules/task_2/votyakova_d_jacoby_method/jacoby_method.h"
+#include "../../../modules/mpi/jacoby_method/jacoby_method.h"
 
 #include <mpi.h>
 

@@ -1,5 +1,4 @@
-// Copyright 2021 Preobrazhenskaya Yuliya
-#include "../../../modules/task_2/preobrazhenskaya_y_ring_topology/ring_topology.h"
+#include "../../../modules/mpi/ring_topology/ring_topology.h"
 
 MPI_Comm getRingTopology(const MPI_Comm comm) {
     int size;

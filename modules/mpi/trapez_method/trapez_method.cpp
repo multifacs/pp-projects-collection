@@ -1,7 +1,6 @@
-// Copyright 2021 Gordey  Maria
 #include <mpi.h>
 #include <functional>
-#include "../../../modules/task_1/gordey_m_trapez_method/trapez_method.h"
+#include "../../../modules/mpi/trapez_method/trapez_method.h"
 
 double getSequentialOperations(double a, double b, int n,
     const std::function<double(double)>& f) {

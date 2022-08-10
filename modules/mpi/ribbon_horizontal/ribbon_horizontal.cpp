@@ -1,7 +1,6 @@
-// Copyright 2021 Gordey Maria
 #include <mpi.h>
 #include <random>
-#include "../../../modules/task_2/gordey_m_ribbon_horizontal/ribbon_horizontal.h"
+#include "../../../modules/mpi/ribbon_horizontal/ribbon_horizontal.h"
 
 
 int* initEmptyMatrix(int rows, int cols) {

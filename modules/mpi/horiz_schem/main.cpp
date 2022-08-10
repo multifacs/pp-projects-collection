@@ -1,9 +1,8 @@
-// Copyright 2021 Lazarev Alexey
 #include <gtest/gtest.h>
 
 #include <gtest-mpi-listener.hpp>
 
-#include "../../../modules/task_2/lazarev_a_horiz_schem/horiz_schem.h"
+#include "../../../modules/mpi/horiz_schem/horiz_schem.h"
 
 TEST(Horiz_schem, Multiplication_1x1) {
   int size = 1;

@@ -1,8 +1,7 @@
-// Copyright 2021 Preobrazhenskaya Yuliya
 #include <mpi.h>
 #include <random>
 #include <algorithm>
-#include "../../../modules/task_1/preobrazhenskaya_y_row_sum/row_sum.h"
+#include "../../../modules/mpi/row_sum/row_sum.h"
 
 
 int* getRandomMatrix(int rows, int cols) {

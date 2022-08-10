@@ -1,5 +1,4 @@
-// Copyright 2022 Naginaylo Dmitriy
-#include "../../../modules/task_2/naginaylo_d_riemann_midpoint/riemann_midpoint.h"
+#include "../../../modules/omp/riemann_midpoint/riemann_midpoint.h"
 
 // Helper funcs
 ///////////////////////////////////////////////////////////////////////////////

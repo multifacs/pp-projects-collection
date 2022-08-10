@@ -1,5 +1,5 @@
 // Copyright 2021 Naginaylo Dmitriy
-#include "../../../modules/task_1/naginaylo_d_vector_order_errors/vector_order_errors.h"
+#include "../../../modules/mpi/vector_order_errors/vector_order_errors.h"
 
 #include <mpi.h>
 

@@ -1,5 +1,4 @@
-// Copyright 2021 Shelepin Nikita
-#include "../../../modules/task_3/shelepin_n_simpson/simpson.h"
+#include "../../../modules/mpi/simpson/simpson.h"
 
 #include <mpi.h>
 #include <cmath>

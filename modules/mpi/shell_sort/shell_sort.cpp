@@ -1,5 +1,4 @@
-// Copyright 2021 Shabunin Vladislav
-#include "../../../modules/task_3/shabunin_v_shell_sort/shell_sort.h"
+#include "../../../modules/mpi/shell_sort/shell_sort.h"
 
 #include <mpi.h>
 

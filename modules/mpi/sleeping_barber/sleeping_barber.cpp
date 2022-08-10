@@ -1,5 +1,4 @@
-// Copyright 2021 Vorobyova Anna
-#include "../../../modules/task_2/vorobyova_a_sleeping_barber/sleeping_barber.h"
+#include "../../../modules/mpi/sleeping_barber/sleeping_barber.h"
 
 #include <mpi.h>
 

@@ -1,6 +1,6 @@
 // Copyright 2022 Boyarskov Anton
 
-#include "../../../modules/task_4/boyarskov_a_conjugate_gradient/conjugate_gradient.h"
+#include "../../../modules/std/conjugate_gradient/conjugate_gradient.h"
 
 #include <omp.h>
 

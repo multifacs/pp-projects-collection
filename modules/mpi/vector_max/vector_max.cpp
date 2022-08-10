@@ -1,5 +1,5 @@
 // Copyright 2021 Shabunin Vladislav
-#include "../../../modules/task_1/shabunin_v_vector_max/vector_max.h"
+#include "../../../modules/mpi/vector_max/vector_max.h"
 
 #include <mpi.h>
 

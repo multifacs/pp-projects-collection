@@ -1,5 +1,4 @@
-// Copyright 2021 Yashina Darya
-#include "../../../modules/task_2/yashina_d_ribbon_vertical/ribbon_vertical.h"
+#include "../../../modules/mpi/ribbon_vertical/ribbon_vertical.h"
 
 #include <mpi.h>
 

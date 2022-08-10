@@ -1,10 +1,8 @@
-// Copyright 2021 Kutuev Roman
-
 #include <gtest/gtest.h>
 
 #include <gtest-mpi-listener.hpp>
 
-#include "../../../modules/task_2/kutuev_r_reduce/reduce.h"
+#include "../../../modules/mpi/reduce/reduce.h"
 
 TEST(ReduceTest, MPI_SUM_INT) {
   int ProcNum, ProcRank;

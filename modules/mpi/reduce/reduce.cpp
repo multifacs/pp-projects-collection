@@ -1,6 +1,4 @@
-// Copyright 2021 Kutuev Roman
-
-#include "../../../modules/task_2/kutuev_r_reduce/reduce.h"
+#include "../../../modules/mpi/reduce/reduce.h"
 
 int my_reduce(void* sendbuf, void* recvbuf, int count, MPI_Datatype datatype,
               MPI_Op op, int root, MPI_Comm comm) {

@@ -1,5 +1,5 @@
 // Copyright 2022 Tyrina Anastasia
-#include "../../../modules/task_3/tyrina_a_dijkstra/dijkstra.h"
+#include "../../../modules/tbb/dijkstra/dijkstra.h"
 
 #include <omp.h>
 #include <tbb/tbb.h>

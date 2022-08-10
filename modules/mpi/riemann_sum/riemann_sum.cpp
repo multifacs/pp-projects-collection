@@ -1,5 +1,4 @@
-// Copyright 2021 Gordey Maria
-#include "../../../modules/task_3/gordey_m_riemann_sum/riemann_sum.h"
+#include "../../../modules/mpi/riemann_sum/riemann_sum.h"
 
 #include <mpi.h>
 
