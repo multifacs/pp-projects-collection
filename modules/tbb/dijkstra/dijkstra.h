@@ -1,6 +1,6 @@
-// Copyright 2022 Tyrina Anastasia
-#ifndef MODULES_TASK_3_TYRINA_A_DIJKSTRA_DIJKSTRA_H_
-#define MODULES_TASK_3_TYRINA_A_DIJKSTRA_DIJKSTRA_H_
+// Copyright 2022 Shelepin Nikita
+#ifndef MODULES_TBB_DIJKSTRA_DIJKSTRA_H_
+#define MODULES_TBB_DIJKSTRA_DIJKSTRA_H_
 
 #include <vector>
 
@@ -15,4 +15,4 @@ Graph parallelDijkstra(const Graph& graph, int V);
 VectorInt dijkstra(const Graph& graph, int src, int V);
 VectorInt dijkstra_parallel(const Graph& graph, int src, int V);
 
-#endif  // MODULES_TASK_3_TYRINA_A_DIJKSTRA_DIJKSTRA_H_
+#endif  // MODULES_TBB_DIJKSTRA_DIJKSTRA_H_

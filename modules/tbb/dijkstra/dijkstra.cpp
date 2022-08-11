@@ -1,4 +1,4 @@
-// Copyright 2022 Tyrina Anastasia
+// Copyright 2022 Shelepin Nikita
 #include "../../../modules/tbb/dijkstra/dijkstra.h"
 
 #include <omp.h>

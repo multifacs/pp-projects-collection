@@ -1,3 +1,4 @@
+// Copyright 2022 Shelepin Nikita
 #include "../../../modules/tbb/simpson/simpson.h"
 
 #include <omp.h>

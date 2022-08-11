@@ -1,3 +1,4 @@
+// Copyright 2022 Shelepin Nikita
 #include "../../../modules/tbb/strassen/strassen.h"
 
 #include <random>

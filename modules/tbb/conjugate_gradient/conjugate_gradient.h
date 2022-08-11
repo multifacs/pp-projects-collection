@@ -1,6 +1,6 @@
-// Copyright 2022 Boyarskov Anton
-#ifndef MODULES_TASK_3_BOYARSKOV_A_CONJUGATE_GRADIENT_CONJUGATE_GRADIENT_H_
-#define MODULES_TASK_3_BOYARSKOV_A_CONJUGATE_GRADIENT_CONJUGATE_GRADIENT_H_
+// Copyright 2022 Shelepin Nikita
+#ifndef MODULES_TBB_CONJUGATE_GRADIENT_CONJUGATE_GRADIENT_H_
+#define MODULES_TBB_CONJUGATE_GRADIENT_CONJUGATE_GRADIENT_H_
 
 #include <tbb/tbb.h>
 
@@ -28,4 +28,4 @@ vec matrixTimesVector(const matrix& A, const vec& V);
 vec conjugateGradientSolver(const matrix& A, const vec& V);
 vec conjugateGradientSolverParallel(const matrix& A, const vec& V);
 
-#endif  // MODULES_TASK_3_BOYARSKOV_A_CONJUGATE_GRADIENT_CONJUGATE_GRADIENT_H_
+#endif  // MODULES_TBB_CONJUGATE_GRADIENT_CONJUGATE_GRADIENT_H_

@@ -1,6 +1,6 @@
-// Copyright 2022 Vorobyova Anya
-#ifndef MODULES_TASK_3_VOROBYOVA_A_GAUSS_HORIZONTAL_GAUSS_HORIZONTAL_H_
-#define MODULES_TASK_3_VOROBYOVA_A_GAUSS_HORIZONTAL_GAUSS_HORIZONTAL_H_
+// Copyright 2022 Shelepin Nikita
+#ifndef MODULES_TBB_GAUSS_HORIZONTAL_GAUSS_HORIZONTAL_H_
+#define MODULES_TBB_GAUSS_HORIZONTAL_GAUSS_HORIZONTAL_H_
 
 #include <tbb/tbb.h>
 
@@ -37,4 +37,4 @@ img getRandomImage(int width, int height);
 img getGauss(const img& image, int width, int height);
 img getGaussTBB(const img& image, int width, int height);
 
-#endif  // MODULES_TASK_3_VOROBYOVA_A_GAUSS_HORIZONTAL_GAUSS_HORIZONTAL_H_
+#endif  // MODULES_TBB_GAUSS_HORIZONTAL_GAUSS_HORIZONTAL_H_

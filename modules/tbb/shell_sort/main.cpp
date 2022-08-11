@@ -1,4 +1,4 @@
-// Copyright 2022 Fedoseyev Mikhail
+// Copyright 2022 Shelepin Nikita
 #include <gtest/gtest.h>
 #include <omp.h>
 

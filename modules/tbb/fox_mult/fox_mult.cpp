@@ -1,4 +1,4 @@
-// Copyright 2022 Schyotkin Artyom
+// Copyright 2022 Shelepin Nikita
 #include "../../../modules/tbb/fox_mult/fox_mult.h"
 
 #include <omp.h>
