@@ -1,3 +1,4 @@
+// Copyright 2022 Shelepin Nikita
 #include "../../../modules/seq/radix_int_simple_merge/radix_int_simple_merge.h"
 
 #include <omp.h>

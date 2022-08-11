@@ -1,3 +1,4 @@
+// Copyright 2022 Shelepin Nikita
 #include "../../../modules/seq/strassen/strassen.h"
 
 #include <omp.h>

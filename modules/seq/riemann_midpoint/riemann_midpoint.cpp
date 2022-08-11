@@ -1,3 +1,4 @@
+// Copyright 2022 Shelepin Nikita
 #include "../../../modules/seq/riemann_midpoint/riemann_midpoint.h"
 
 // Helper funcs

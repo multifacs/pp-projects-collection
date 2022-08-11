@@ -1,3 +1,4 @@
+// Copyright 2022 Shelepin Nikita
 #include "../../../modules/seq/dijkstra/dijkstra.h"
 
 #include <climits>

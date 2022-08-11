@@ -1,4 +1,4 @@
-// Copyright 2022 Sorokina Ekaterina
+// Copyright 2022 Shelepin Nikita
 #include <gtest/gtest.h>
 
 #include "./radix_int_simple_merge.h"

@@ -1,3 +1,4 @@
+// Copyright 2022 Shelepin Nikita
 #include "../../../modules/seq/fox_mult/fox_mult.h"
 
 #include <iostream>

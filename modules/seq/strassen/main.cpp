@@ -1,4 +1,4 @@
-// Copyright 2022 Lazarev Aleksey
+// Copyright 2022 Shelepin Nikita
 #include <gtest/gtest.h>
 
 #include "./strassen.h"

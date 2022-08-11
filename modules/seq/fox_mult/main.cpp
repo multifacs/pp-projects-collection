@@ -1,4 +1,4 @@
-// Copyright 2022 Schyotkin Artyom
+// Copyright 2022 Shelepin Nikita
 #include <gtest/gtest.h>
 
 #include "./fox_mult.h"

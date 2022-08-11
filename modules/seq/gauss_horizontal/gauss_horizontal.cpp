@@ -1,3 +1,4 @@
+// Copyright 2022 Shelepin Nikita
 #include "../../../modules/seq/gauss_horizontal/gauss_horizontal.h"
 
 #include <random>

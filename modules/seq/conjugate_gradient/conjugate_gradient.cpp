@@ -1,3 +1,4 @@
+// Copyright 2022 Shelepin Nikita
 #include "../../../modules/seq/conjugate_gradient/conjugate_gradient.h"
 
 #include <iostream>
