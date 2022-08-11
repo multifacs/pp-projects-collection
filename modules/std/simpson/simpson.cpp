@@ -1,3 +1,4 @@
+// Copyright 2022 Shelepin Nikita
 #include "../../../modules/std/simpson/simpson.h"
 
 #include <cmath>

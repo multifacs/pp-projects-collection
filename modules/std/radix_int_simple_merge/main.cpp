@@ -1,10 +1,11 @@
-// Copyright 2022 Sorokina Ekaterina
+// Copyright 2022 Shelepin Nikita
 #include <gtest/gtest.h>
 
-#include "./radix_int_simple_merge.h"
 #include "../../../3rdparty/unapproved/unapproved.h"
+#include "./radix_int_simple_merge.h"
 
-void measureTime(INT_VEC* vec1, INT_VEC* vec2, int parts, bool parallel, bool parallel_merge) {
+void measureTime(INT_VEC* vec1, INT_VEC* vec2, int parts, bool parallel,
+                 bool parallel_merge) {
   auto start = clock();
   radixSortSimpleMerge(vec1, parts, false);
   auto end = clock();
