@@ -1,5 +1,4 @@
-// Copyright 2022 Boyarskov Anton
-
+// Copyright 2022 Shelepin Nikita
 #include "../../../modules/omp/conjugate_gradient/conjugate_gradient.h"
 
 #include <omp.h>

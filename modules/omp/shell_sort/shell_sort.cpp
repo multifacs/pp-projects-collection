@@ -1,3 +1,4 @@
+// Copyright 2022 Shelepin Nikita
 #include "../../../modules/omp/shell_sort/shell_sort.h"
 
 int *generate_vector(int n) {

@@ -1,4 +1,4 @@
-// Copyright 2022 Naginaylo Dmitriy
+// Copyright 2022 Shelepin Nikita
 #include <gtest/gtest.h>
 #include <omp.h>
 

@@ -1,3 +1,4 @@
+// Copyright 2022 Shelepin Nikita
 #include "../../../modules/omp/radix_int_simple_merge/radix_int_simple_merge.h"
 
 #include <omp.h>
@@ -24,7 +25,7 @@ void radixSort(INT_VEC* vec, bool parallel = true) {
   int largestNum = *std::max_element((*vec).begin(), (*vec).end());
 
   while (largestNum / digitPlace > 0) {
-    int count[10] = { 0 };
+    int count[10] = {0};
 
     for (i = 0; i < n; i++) {
       count[((*vec)[i] / digitPlace) % 10]++;
@@ -68,7 +69,8 @@ INT_VEC mergeVecs(const INT_VEC& arr1, const INT_VEC& arr2) {
   return arr3;
 }
 
-void radixSortSimpleMerge(INT_VEC* vec, int parts, bool parallel, bool parallel_merge) {
+void radixSortSimpleMerge(INT_VEC* vec, int parts, bool parallel,
+                          bool parallel_merge) {
   std::vector<INT_VEC> vecs(parts);
   int grainsize = static_cast<int>((*vec).size()) / parts;
 

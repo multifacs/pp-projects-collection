@@ -1,5 +1,4 @@
-// Copyright 2022 Vorobyova Anya
-
+// Copyright 2022 Shelepin Nikita
 #include "../../../modules/omp/gauss_horizontal/gauss_horizontal.h"
 
 #include <omp.h>

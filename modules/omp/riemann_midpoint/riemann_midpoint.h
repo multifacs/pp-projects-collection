@@ -1,6 +1,6 @@
-// Copyright 2022 Naginaylo Dmitriy
-#ifndef MODULES_TASK_2_NAGINAYLO_D_RIEMANN_MIDPOINT_RIEMANN_MIDPOINT_H_
-#define MODULES_TASK_2_NAGINAYLO_D_RIEMANN_MIDPOINT_RIEMANN_MIDPOINT_H_
+// Copyright 2022 Shelepin Nikita
+#ifndef MODULES_OMP_RIEMANN_MIDPOINT_RIEMANN_MIDPOINT_H_
+#define MODULES_OMP_RIEMANN_MIDPOINT_RIEMANN_MIDPOINT_H_
 
 #include <omp.h>
 
@@ -17,4 +17,4 @@ double riemannMidpoint(const int dim, const int subdiv,
 double riemannMidpointParallel(const int dim, const int subdiv,
                                const vector_pair& limits, const function& func);
 
-#endif  // MODULES_TASK_2_NAGINAYLO_D_RIEMANN_MIDPOINT_RIEMANN_MIDPOINT_H_
+#endif  // MODULES_OMP_RIEMANN_MIDPOINT_RIEMANN_MIDPOINT_H_

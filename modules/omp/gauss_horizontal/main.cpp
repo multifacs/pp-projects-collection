@@ -1,4 +1,4 @@
-// Copyright 2022 Vorobyova Anya
+// Copyright 2022 Shelepin Nikita
 #include <gtest/gtest.h>
 
 #include "./gauss_horizontal.h"

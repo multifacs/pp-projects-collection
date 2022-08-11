@@ -1,6 +1,6 @@
-// Copyright 2022 Votyakova Daria
-#ifndef MODULES_TASK_2_VOTYAKOVA_D_SIMPSON_SIMPSON_H_
-#define MODULES_TASK_2_VOTYAKOVA_D_SIMPSON_SIMPSON_H_
+// Copyright 2022 Shelepin Nikita
+#ifndef MODULES_OMP_SIMPSON_SIMPSON_H_
+#define MODULES_OMP_SIMPSON_SIMPSON_H_
 
 #include <algorithm>
 #include <functional>
@@ -12,4 +12,4 @@ double getOMPSimpson(
     const std::vector<std::pair<double, double>>& limits,
     const std::vector<int>& n);
 
-#endif  // MODULES_TASK_2_VOTYAKOVA_D_SIMPSON_SIMPSON_H_
+#endif  // MODULES_OMP_SIMPSON_SIMPSON_H_

@@ -1,6 +1,6 @@
-// Copyright 2022 Tyrina Anastasia
-#ifndef MODULES_TASK_2_TYRINA_A_DIJKSTRA_DIJKSTRA_H_
-#define MODULES_TASK_2_TYRINA_A_DIJKSTRA_DIJKSTRA_H_
+// Copyright 2022 Shelepin Nikita
+#ifndef MODULES_OMP_DIJKSTRA_DIJKSTRA_H_
+#define MODULES_OMP_DIJKSTRA_DIJKSTRA_H_
 
 #include <vector>
 
@@ -12,4 +12,4 @@ Graph getRandomGraph(int V);
 Graph sequentialDijkstra(const Graph& graph, int V);
 Graph parallelDijkstra(const Graph& graph, int V);
 
-#endif  // MODULES_TASK_2_TYRINA_A_DIJKSTRA_DIJKSTRA_H_
+#endif  // MODULES_OMP_DIJKSTRA_DIJKSTRA_H_

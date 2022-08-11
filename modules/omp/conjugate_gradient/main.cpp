@@ -1,4 +1,4 @@
-// Copyright 2022 Boyarskov Anton
+// Copyright 2022 Shelepin Nikita
 #include <gtest/gtest.h>
 
 #include "./conjugate_gradient.h"
