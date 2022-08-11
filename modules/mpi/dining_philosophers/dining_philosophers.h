@@ -1,6 +1,6 @@
-// Copyright 2021 Shelepin Nikita
-#ifndef MODULES_TASK_2_SHELEPIN_N_DINING_PHILOSOPHERS_DINING_PHILOSOPHERS_H_
-#define MODULES_TASK_2_SHELEPIN_N_DINING_PHILOSOPHERS_DINING_PHILOSOPHERS_H_
+// Copyright 2022 Shelepin Nikita
+#ifndef MODULES_MPI_DINING_PHILOSOPHERS_DINING_PHILOSOPHERS_H_
+#define MODULES_MPI_DINING_PHILOSOPHERS_DINING_PHILOSOPHERS_H_
 
 void philosopher(int myrank, int runs);
 void table(int myrank, int nprocs, int runs);
@@ -13,4 +13,4 @@ void table(int myrank, int nprocs, int runs);
 #define EATING 2
 #define THINKING 3
 
-#endif  // MODULES_TASK_2_SHELEPIN_N_DINING_PHILOSOPHERS_DINING_PHILOSOPHERS_H_
+#endif  // MODULES_MPI_DINING_PHILOSOPHERS_DINING_PHILOSOPHERS_H_

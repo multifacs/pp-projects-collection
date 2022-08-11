@@ -1,6 +1,6 @@
-// Copyright 2021 Gordey Maria
-#ifndef MODULES_TASK_3_GORDEY_M_RIEMANN_SUM_RIEMANN_SUM_H_
-#define MODULES_TASK_3_GORDEY_M_RIEMANN_SUM_RIEMANN_SUM_H_
+// Copyright 2022 Shelepin Nikita
+#ifndef MODULES_MPI_RIEMANN_SUM_RIEMANN_SUM_H_
+#define MODULES_MPI_RIEMANN_SUM_RIEMANN_SUM_H_
 
 #include <cmath>
 #include <functional>
@@ -15,4 +15,4 @@ double getSequentialIntegrals(
 double getParallelIntegrals(
     const int n, const std::vector<std::pair<double, double>>& limits,
     const std::function<double(std::vector<double>)>& f);
-#endif  // MODULES_TASK_3_GORDEY_M_RIEMANN_SUM_RIEMANN_SUM_H_
+#endif  // MODULES_MPI_RIEMANN_SUM_RIEMANN_SUM_H_

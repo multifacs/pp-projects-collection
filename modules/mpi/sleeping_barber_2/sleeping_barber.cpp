@@ -1,3 +1,4 @@
+// Copyright 2022 Shelepin Nikita
 #include "../../../modules/mpi/sleeping_barber_2/sleeping_barber.h"
 
 #include <mpi.h>

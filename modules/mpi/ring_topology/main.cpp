@@ -1,4 +1,4 @@
-// Copyright 2021 Preobrazhenskaya Yuliya
+// Copyright 2022 Shelepin Nikita
 #include <gtest/gtest.h>
 #include "./ring_topology.h"
 #include <gtest-mpi-listener.hpp>

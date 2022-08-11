@@ -1,3 +1,4 @@
+// Copyright 2022 Shelepin Nikita
 #include <gtest/gtest.h>
 #include <vector>
 #include "./vector_min_diff.h"

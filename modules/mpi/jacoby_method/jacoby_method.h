@@ -1,6 +1,6 @@
-// Copyright 2021 Votyakova Daria
-#ifndef MODULES_TASK_2_VOTYAKOVA_D_JACOBY_METHOD_JACOBY_METHOD_H_
-#define MODULES_TASK_2_VOTYAKOVA_D_JACOBY_METHOD_JACOBY_METHOD_H_
+// Copyright 2022 Shelepin Nikita
+#ifndef MODULES_MPI_JACOBY_METHOD_JACOBY_METHOD_H_
+#define MODULES_MPI_JACOBY_METHOD_JACOBY_METHOD_H_
 
 #include <vector>
 
@@ -18,4 +18,4 @@ std::vector<double> getJacobiSequential(std::vector<double> A,
 std::vector<double> getJacobiParallel(std::vector<double> A,
                                       std::vector<double> b, int size);
 
-#endif  // MODULES_TASK_2_VOTYAKOVA_D_JACOBY_METHOD_JACOBY_METHOD_H_
+#endif  // MODULES_MPI_JACOBY_METHOD_JACOBY_METHOD_H_

@@ -1,3 +1,4 @@
+// Copyright 2022 Shelepin Nikita
 #include "../../../modules/mpi/image_smoothing/image_smoothing.h"
 
 #include <mpi.h>

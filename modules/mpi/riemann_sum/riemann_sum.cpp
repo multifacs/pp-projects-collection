@@ -1,3 +1,4 @@
+// Copyright 2022 Shelepin Nikita
 #include "../../../modules/mpi/riemann_sum/riemann_sum.h"
 
 #include <mpi.h>

@@ -1,4 +1,4 @@
-// Copyright 2021 Shelepin Nikita
+// Copyright 2022 Shelepin Nikita
 #include "../../../modules/mpi/col_sum/col_sum.h"
 #include <mpi.h>
 #include <cstdlib>

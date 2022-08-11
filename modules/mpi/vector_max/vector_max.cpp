@@ -1,4 +1,4 @@
-// Copyright 2021 Shabunin Vladislav
+// Copyright 2022 Shelepin Nikita
 #include "../../../modules/mpi/vector_max/vector_max.h"
 
 #include <mpi.h>

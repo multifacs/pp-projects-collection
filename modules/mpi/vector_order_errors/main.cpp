@@ -1,4 +1,4 @@
-// Copyright 2021 Naginaylo Dmitriy
+// Copyright 2022 Shelepin Nikita
 #include <gtest/gtest.h>
 #include <vector>
 #include "./vector_order_errors.h"

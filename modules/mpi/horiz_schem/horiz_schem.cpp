@@ -1,3 +1,4 @@
+// Copyright 2022 Shelepin Nikita
 #include "../../../modules/mpi/horiz_schem/horiz_schem.h"
 
 std::vector<int> random_vector(int size) {

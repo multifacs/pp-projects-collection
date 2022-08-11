@@ -1,6 +1,6 @@
-// Copyright 2021 Barysheva Maria
-#ifndef MODULES_TASK_3_BARYSHEVA_M_RADIX_BATCHER_RADIX_BATCHER_H_
-#define MODULES_TASK_3_BARYSHEVA_M_RADIX_BATCHER_RADIX_BATCHER_H_
+// Copyright 2022 Shelepin Nikita
+#ifndef MODULES_MPI_RADIX_BATCHER_RADIX_BATCHER_H_
+#define MODULES_MPI_RADIX_BATCHER_RADIX_BATCHER_H_
 
 #include <cstdint>
 #include <cstring>
@@ -107,4 +107,4 @@ void floatRadixSort(T **in, uint64_t N) {
   delete[] counters;
 }
 
-#endif  // MODULES_TASK_3_BARYSHEVA_M_RADIX_BATCHER_RADIX_BATCHER_H_
+#endif  // MODULES_MPI_RADIX_BATCHER_RADIX_BATCHER_H_

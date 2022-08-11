@@ -1,3 +1,4 @@
+// Copyright 2022 Shelepin Nikita
 #include "../../../modules/mpi/numbers_of_words_in_line/word_count.h"
 
 int GetCountString(std::string st) {

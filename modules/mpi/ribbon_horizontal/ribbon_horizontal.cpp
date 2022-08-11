@@ -1,3 +1,4 @@
+// Copyright 2022 Shelepin Nikita
 #include <mpi.h>
 #include <random>
 #include "../../../modules/mpi/ribbon_horizontal/ribbon_horizontal.h"

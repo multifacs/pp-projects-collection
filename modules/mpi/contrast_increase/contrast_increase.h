@@ -1,6 +1,6 @@
-// Copyright 2021 Tyrina Anastasia
-#ifndef MODULES_TASK_2_TYRINA_A_CONTRAST_INCREASE_CONTRAST_INCREASE_H_
-#define MODULES_TASK_2_TYRINA_A_CONTRAST_INCREASE_CONTRAST_INCREASE_H_
+// Copyright 2022 Shelepin Nikita
+#ifndef MODULES_MPI_CONTRAST_INCREASE_CONTRAST_INCREASE_H_
+#define MODULES_MPI_CONTRAST_INCREASE_CONTRAST_INCREASE_H_
 
 double* getRandomImage(int width, int height);
 double* getSequentialContrastIncrease(double* image, int width, int height,
@@ -8,4 +8,4 @@ double* getSequentialContrastIncrease(double* image, int width, int height,
 double* getParallelContrastIncrease(double* image, int width, int height,
                                     double contrast);
 
-#endif  // MODULES_TASK_2_TYRINA_A_CONTRAST_INCREASE_CONTRAST_INCREASE_H_
+#endif  // MODULES_MPI_CONTRAST_INCREASE_CONTRAST_INCREASE_H_

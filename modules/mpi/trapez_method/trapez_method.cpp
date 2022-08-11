@@ -1,3 +1,4 @@
+// Copyright 2022 Shelepin Nikita
 #include <mpi.h>
 #include <functional>
 #include "../../../modules/mpi/trapez_method/trapez_method.h"

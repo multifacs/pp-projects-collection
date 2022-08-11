@@ -1,4 +1,4 @@
-// Copyright 2021 Shelepin Nikita
+// Copyright 2022 Shelepin Nikita
 #include <gtest/gtest.h>
 
 #include <cmath>

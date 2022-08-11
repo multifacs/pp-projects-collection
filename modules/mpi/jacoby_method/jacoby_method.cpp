@@ -1,3 +1,4 @@
+// Copyright 2022 Shelepin Nikita
 #include "../../../modules/mpi/jacoby_method/jacoby_method.h"
 
 #include <mpi.h>

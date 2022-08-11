@@ -1,3 +1,4 @@
+// Copyright 2022 Shelepin Nikita
 #include "../../../modules/mpi/ribbon_vertical/ribbon_vertical.h"
 
 #include <mpi.h>

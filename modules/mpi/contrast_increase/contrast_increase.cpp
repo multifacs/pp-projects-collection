@@ -1,4 +1,4 @@
-// Copyright 2021 Tyrina Anastasia
+// Copyright 2022 Shelepin Nikita
 #include "../../../modules/mpi/contrast_increase/contrast_increase.h"
 
 #include <mpi.h>

@@ -1,4 +1,4 @@
-// Copyright 2021 Shelepin Nikita
+// Copyright 2022 Shelepin Nikita
 #include "../../../modules/mpi/dining_philosophers/dining_philosophers.h"
 #include <mpi.h>
 #include <random>

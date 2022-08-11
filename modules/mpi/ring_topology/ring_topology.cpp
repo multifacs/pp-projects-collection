@@ -1,3 +1,4 @@
+// Copyright 2022 Shelepin Nikita
 #include "../../../modules/mpi/ring_topology/ring_topology.h"
 
 MPI_Comm getRingTopology(const MPI_Comm comm) {

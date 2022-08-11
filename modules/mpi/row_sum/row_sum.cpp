@@ -1,3 +1,4 @@
+// Copyright 2022 Shelepin Nikita
 #include <mpi.h>
 #include <random>
 #include <algorithm>

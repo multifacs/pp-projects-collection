@@ -1,3 +1,4 @@
+// Copyright 2022 Shelepin Nikita
 #include "../../../modules/mpi/vector_min_diff/vector_min_diff.h"
 
 #include <mpi.h>

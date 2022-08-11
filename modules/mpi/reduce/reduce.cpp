@@ -1,3 +1,4 @@
+// Copyright 2022 Shelepin Nikita
 #include "../../../modules/mpi/reduce/reduce.h"
 
 int my_reduce(void* sendbuf, void* recvbuf, int count, MPI_Datatype datatype,

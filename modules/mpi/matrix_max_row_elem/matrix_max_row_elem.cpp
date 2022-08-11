@@ -1,3 +1,4 @@
+// Copyright 2022 Shelepin Nikita
 #include "../../../modules/mpi/matrix_max_row_elem/matrix_max_row_elem.h"
 
 #include <mpi.h>

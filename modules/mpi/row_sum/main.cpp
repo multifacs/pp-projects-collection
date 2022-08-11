@@ -1,4 +1,4 @@
-// Copyright 2021 Preobrazhenskaya Yuliya
+// Copyright 2022 Shelepin Nikita
 #include <gtest/gtest.h>
 #include "./row_sum.h"
 #include <gtest-mpi-listener.hpp>

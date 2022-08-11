@@ -1,3 +1,4 @@
+// Copyright 2022 Shelepin Nikita
 #include "../../../modules/mpi/simpson/simpson.h"
 
 #include <mpi.h>

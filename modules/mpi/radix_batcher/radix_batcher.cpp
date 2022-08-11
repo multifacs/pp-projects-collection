@@ -1,3 +1,4 @@
+// Copyright 2022 Shelepin Nikita
 #include "../../../modules/mpi/radix_batcher/radix_batcher.h"
 
 #include <mpi.h>

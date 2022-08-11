@@ -1,3 +1,4 @@
+// Copyright 2022 Shelepin Nikita
 #include <mpi.h>
 #include <random>
 #include "../../../modules/mpi/matrix_sum/matrix_sum.h"

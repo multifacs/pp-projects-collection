@@ -1,3 +1,4 @@
+// Copyright 2022 Shelepin Nikita
 #include "../../../modules/mpi/shell_sort/shell_sort.h"
 
 #include <mpi.h>

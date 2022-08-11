@@ -1,11 +1,11 @@
-// Copyright 2021 Naginaylo Dmitriy
+// Copyright 2022 Shelepin Nikita
 #include "../../../modules/mpi/vector_order_errors/vector_order_errors.h"
 
 #include <mpi.h>
 
+#include <iostream>
 #include <random>
 #include <vector>
-#include <iostream>
 
 std::vector<int> getRandomVector(int sz) {
   std::random_device dev;
@@ -21,10 +21,10 @@ std::vector<int> getRandomVector(int sz) {
   }
 
   // std::cout << "Vec: " << std::endl;
-  //for (int i = 0; i < sz; i++) {
+  // for (int i = 0; i < sz; i++) {
   //  std::cout << vec[i] << ' ';
   //}
-  //std::cout << std::endl;
+  // std::cout << std::endl;
 
   for (int i = 0; i < errors; i++) {
     int idx = distrib(gen);
@@ -44,7 +44,7 @@ std::vector<int> getRandomVector(int sz) {
 
 int getSequentialOrderErrors(std::vector<int> vec) {
   int errors = 0;
-  
+
   if (vec.size() != 0) {
     for (int i = 0; i < static_cast<int>(vec.size()) - 1; i++) {
       if (vec[i] > vec[i + 1]) {
